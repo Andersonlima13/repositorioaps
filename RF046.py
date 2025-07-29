@@ -1,12 +1,15 @@
-# O agente administrativo Luís seleciona "Agendar Mensagem" no sistema.
+# O agente administrativo Luís  acessa a seção "Enviar Mensagens".
+
+# O agente administrativo Luís Seleciona alunos para qual deseja enviar mensagens.
+
+# Ele clica em agendar mensagem
+
+# Um formulario com o campo mensagem é aberto
 
 # Ele preenche:
 
-Mensagem: "Pagamento da taxa de transporte até 05/10."
+Mensagem: "Aula suspensa no dia 05/10."
 
-Data/Hora: 03/10 às 08:00
-
-Turno: Manhã
 
 # Ao clicar em "Agendar", o sistema exibe:
 *"Mensagem programada para envio automático em 03/10 às 08:00 para o turno da manhã."*

@@ -1,6 +1,6 @@
 # O administrador João acessa a seção "Gerenciar Usuários" no sistema.
 
-# Ele seleciona "Cadastrar Novo Agente" e o sistema exibe um formulário com os campos:
+# Ele seleciona o botão "Cadastrar Novo Agente" e o sistema exibe um formulário com os campos:
 
 Nome completo
 
@@ -12,5 +12,7 @@ Chave de acesso temporária
 
 # O sistema exibe a mensagem:
 "Agente administrativo cadastrado com sucesso. Uma notificação foi enviada para o e-mail do usuário."
+
+# João Retorna a seção "Gerenciar Usuários"
 
 # João verifica a lista de agentes e confirma que o novo nome aparece na relação.

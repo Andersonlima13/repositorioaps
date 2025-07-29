@@ -10,9 +10,15 @@ Tarde
 
 Noite
 
-# Maria seleciona "Tarde" e digita a mensagem: "Reunião às 14h no pátio."
+
+# Maria seleciona "Tarde"
+
+# Maria clica em selecionar todos os alunos filtrados 
+
+# Maria escreve a  mensagem : "Reunião às 14h no pátio." e clica em enviar.
 
 # Ao clicar em "Enviar", o sistema exibe a confirmação:
+
 "Mensagem enviada para 120 estudantes do turno da tarde."
 
 # Maria verifica no "Histórico de Envios" que a mensagem está registrada com o filtro aplicado.
