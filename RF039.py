@@ -5,7 +5,7 @@
 
 RAM necessária: 2GB (disponível: 1GB)
 
-*Versão do Sistema: Android 5+ (atual: Windows 4)"*
+*Versão do Sistema: Android 5+ (atual: Android 4.1)"*
 
 # Ricardo tenta prosseguir clicando em "Ignorar", mas o sistema fecha automaticamente após 5 segundos.
 
