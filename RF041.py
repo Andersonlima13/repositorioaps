@@ -13,11 +13,4 @@ Botão "Entrar"
 
 # Ele clica em "Entrar" e o sistema valida suas credenciais.
 
-# Após 1 segundo, o sistema redireciona Marcos para a tela inicial do motorista, onde ele vê:
-
-Seu nome e foto de perfil
-
-Rotas do dia
-
-Horários programados
-
+# Após 1 segundo, o sistema redireciona Marcos para a tela inicial do motorista.
