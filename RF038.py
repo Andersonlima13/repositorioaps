@@ -1,19 +1,37 @@
-# A administradora Sofia acessa o painel de controle do sistema.
+História do Usuário - Ativar/Desativar Funcionalidades (Administrador)
+1. Acesso ao Sistema
+# O administrador Carlos faz login no sistema com sua matrícula e senha.
+# Na tela inicial, ele identifica o ícone ⚙️ "Configurações" no menu superior e toca nele.
 
-# Ela navega até a seção "Configurações do Sistema" e seleciona "Funcionalidades".
+2. Navegação para o Painel de Controle
+# Na tela de Configurações, Carlos seleciona a opção "Painel de Controle".
 
-# O sistema exibe uma lista de funcionalidades com opções para ativar/desativar:
+3. Gerenciamento de Funcionalidades
+# Carlos seleciona a opção "Funcionalidades do Sistema".
+# O sistema exibe uma lista organizada por categorias:
 
-Emissão de alertas por e-mail
+🔘 COMUNICAÇÃO
 
-Renovação automática de documentos
+Notificações Push (Ativado ✅)
 
-Notificações push para estudantes
+Alertas por E-mail (Desativado ❌)
 
-# Sofia desativa a opção "Notificações push" e clica em "Salvar".
+🔘 DOCUMENTOS
 
-# O sistema exibe a confirmação:
-"Configurações atualizadas com sucesso. Notificações push desativadas para todos os usuários."
+Renovação Automática (Ativado ✅)
 
-# Sofia verifica que a opção permanece na posição "desativado" ao recarregar a página.
+Validação de Documentos (Ativado ✅)
 
+# Carlos toca no toggle ao lado de "Notificações Push" para desativá-las.
+
+4. Confirmação e Efeito Imediato
+# O sistema exibe um pop-up de confirmação:
+⚠️ "Ao desativar notificações push, os usuários não receberão alertas em tempo real. Confirmar alteração?"
+
+# Carlos seleciona "Confirmar".
+# O sistema atualiza imediatamente o status e exibe:
+✅ "Notificações push desativadas com sucesso. Todas as configurações foram salvas."
+
+# A mudança é refletida em tempo real:
+
+O toggle agora mostra "Desativado ❌".
