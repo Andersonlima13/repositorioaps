@@ -20,8 +20,6 @@ Horários: "Ônibus das 6h às 23h, de segunda a sexta."
 
 Proibições: "É proibido comer, beber ou fumar nos veículos."
 
-Comportamentos: "Mantenha seu cartão de acesso sempre visível."
-
 
 4. Consulta ao Regulamento Completo
 # Ana toca na aba "Regulamento Completo".
