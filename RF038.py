@@ -1,7 +1,7 @@
 História do Usuário - Ativar/Desativar Funcionalidades (Administrador)
 1. Acesso ao Sistema
 # O administrador Carlos faz login no sistema com sua matrícula e senha.
-# Na tela inicial, ele identifica o ícone ⚙️ "Configurações" no menu superior e toca nele.
+# Na tela inicial, ele identifica o ícone ⚙️ "Configurações" no menu inferior e toca nele.
 
 2. Navegação para o Painel de Controle
 # Na tela de Configurações, Carlos seleciona a opção "Painel de Controle".
