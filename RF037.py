@@ -1,15 +1,38 @@
-# Ana acessa o aplicativo de transporte universitário.
+História do Usuário - Visualizar Regras de Uso do Transporte (RF037)
+1. Acesso ao Menu
+# Ana abre o aplicativo de transporte universitário e faz login.
+# No menu principal, ela identifica o ícone ⚙️ "Configurações" e toca nele.
 
-# Ela procura no menu principal a opção "Regras de Uso" e seleciona.
+2. Navegação para Regras de Uso
+# Na tela de Configurações, Ana vê a opção "Regras de Uso" e seleciona.
 
-# O sistema exibe uma página com duas abas:
+# O sistema carrega uma página organizada com as seguintes regras
 
-"Regras de Uso do Transporte" (com informações sobre horários, comportamentos permitidos/proibidos, etc.).
+Regras Básicas (selecionada por padrão)
 
-"Regulamento Completo" (documento PDF com normas detalhadas).
+Regulamento Completo
 
-# Ana seleciona a aba "Regras de Uso" e verifica que o texto está formatado de forma clara, com tópicos e ícones ilustrativos.
+3. Visualização das Regras Básicas
+# Na aba "Regras Básicas", Ana encontra:
+✅ Lista formatada com ícones intuitivos:
 
-# Ela clica na opção "Baixar Regulamento" e o sistema abre o PDF em uma nova janela.
+Horários: "Ônibus das 6h às 23h, de segunda a sexta."
 
-# Satisfeita, Ana volta para a tela inicial e continua usando o aplicativo.
+Proibições: "É proibido comer, beber ou fumar nos veículos."
+
+Comportamentos: "Mantenha seu cartão de acesso sempre visível."
+
+
+4. Consulta ao Regulamento Completo
+# Ana toca na aba "Regulamento Completo".
+# O sistema exibe:
+
+Documento PDF integrado.
+
+Botão "Baixar PDF" para acesso offline.
+
+# Ela seleciona "Baixar PDF" e recebe a confirmação:
+✔️ "Regulamento salvo em 'Downloads'."
+
+5. Finalização
+# Satisfeita com as informações, Ana volta à tela inicial tocando em "Voltar".
