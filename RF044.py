@@ -1,24 +1,45 @@
-# A estudante Juliana acessa o aplicativo pela primeira vez.
+História do Usuário Aprimorada - Primeiro Acesso e Redefinição de Senha
+# A estudante Juliana recebe um e-mail da universidade com o assunto:
+📧 "Ative sua conta no Sistema de Transporte Universitário"
 
-# Ela seleciona "Cadastre-se" e preenche:
+# Ela clica no link "Primeiro Acesso" e é direcionada para uma tela com os campos:
 
-CPF
+CPF (com máscara automática: _ _ . _ . _ - _)
 
-Senha (com validação de força)
+Senha temporária (enviada por e-mail, ex: "Uni@1234")
 
-Confirmação de senha
+# Juliana digita seu CPF e a senha temporária.
 
-# Ao clicar em "Criar Conta", o sistema verifica o CPF na base de dados da universidade.
+Fluxo Principal - Redefinição de Senha
+# O sistema identifica que é o primeiro acesso e exige a criação de uma nova senha.
 
-# Como o CPF é válido, o sistema redireciona para complementar cadastro com:
+# Aparece um formulário com:
+
+"Nova Senha" (com medidor de força em tempo real: ▯▯▯▯▯)
+
+Requisitos: 8 caracteres, 1 número, 1 letra maiúscula
+
+"Confirmar Nova Senha"
+
+# Juliana digita "Juliana@2024" e confirma.
+
+# O sistema valida e exibe:
+✅ "Senha atualizada com sucesso! Agora você será redirecionada para completar seu cadastro."
+
+Complemento de Cadastro
+# A próxima tela solicita:
 
 Nome completo
 
-Curso
+Foto (opcional, com preview)
 
-Matrícula institucional
+Curso (dropdown)
 
-# Juliana preenche os dados e recebe a confirmação:
-"Cadastro concluído! Bem-vinda ao Transporte Universitário."
+Matrícula (auto-preenchida se vinculada ao CPF)
 
-# Ela já pode fazer login com as credenciais criadas.
+# Juliana preenche os dados e clica em "Finalizar".
+
+# O sistema mostra:
+🎉 *"Cadastro concluído! Bem-vinda, Juliana. Seu número de matrícula é 2024005678."*
+
+# Ela é automaticamente logada no sistema e vê sua rota de transporte.
