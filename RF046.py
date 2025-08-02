@@ -10,7 +10,7 @@ Mensagem: "Aula suspensa no dia 05/10."
 
 # Ele clica no botão "programar mensagem" 
 
-# Ao clicar em "Agendar", o sistema exibe um form com os campos:  Selecionar horario, selecionar data
+# Ao clicar em "programar mensagem", o sistema exibe um form com os campos:  Selecionar horario, selecionar data
 
 # O agente define o horario e data o qual a mensagem deve ser enviada.
 
@@ -20,4 +20,4 @@ Mensagem: "Aula suspensa no dia 05/10."
 
 *"Mensagem programada para envio automático em 03/10 às 08:00 para o turno da manhã."*
 
-# Luís acessa "Agendamentos Pendentes" e vê a mensagem listada.
+# A mensagem é enviada e Luis volta a acessar o sistema normalmente
