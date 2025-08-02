@@ -1,17 +1,23 @@
-# O agente administrativo Luís  acessa a seção "Enviar Mensagens".
+# O agente administrativo Luís  acessa a seção "Comunicação" na pagina incial.
 
-# O agente administrativo Luís Seleciona alunos para qual deseja enviar mensagens.
+# Após isso, ele clica na opção "Enviar mensagens"
 
-# Ele clica em agendar mensagem
+# Ao acessar a pagina de mensagens, o agente se depara com um campo de envio de mensagens e um botão escrito "programar mensagem"
 
-# Um formulario com o campo mensagem é aberto
-
-# Ele preenche:
+# Ele preenche a seguinte mensagem:
 
 Mensagem: "Aula suspensa no dia 05/10."
 
+# Ele clica no botão "programar mensagem" 
 
-# Ao clicar em "Agendar", o sistema exibe:
+# Ao clicar em "Agendar", o sistema exibe um form com os campos:  Selecionar horario, selecionar data
+
+# O agente define o horario e data o qual a mensagem deve ser enviada.
+
+# O agente define a seguinte data : 03/10 | e o seguinte horario : 08:00. e clica em, "enviar"
+
+# O Sistema emite o seguinte alerta : 
+
 *"Mensagem programada para envio automático em 03/10 às 08:00 para o turno da manhã."*
 
 # Luís acessa "Agendamentos Pendentes" e vê a mensagem listada.
