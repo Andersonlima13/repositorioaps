@@ -25,12 +25,6 @@ Proibições: "É proibido comer, beber ou fumar nos veículos."
 # Ana toca na aba "Regulamento Completo".
 # O sistema exibe:
 
-Documento PDF integrado.
-
-Botão "Baixar PDF" para acesso offline.
-
-# Ela seleciona "Baixar PDF" e recebe a confirmação:
-✔️ "Regulamento salvo em 'Downloads'."
 
 5. Finalização
 # Satisfeita com as informações, Ana volta à tela inicial tocando em "Voltar".
