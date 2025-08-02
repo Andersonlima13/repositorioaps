@@ -1,10 +1,10 @@
 História do Usuário - Visualizar Regras de Uso do Transporte (RF037)
 1. Acesso ao Menu
 # Ana abre o aplicativo de transporte universitário e faz login.
-# No menu principal, ela identifica o ícone ⚙️ "Configurações" e toca nele.
+# No menu principal, ela identifica a opção  "Configurações" e clica nele.
 
 2. Navegação para Regras de Uso
-# Na tela de Configurações, Ana vê a opção "Regras de Uso" e seleciona.
+# Na aba de Configurações, Ana vê a opção "Regras de Uso" e seleciona.
 
 # O sistema carrega uma página organizada com as seguintes regras
 
