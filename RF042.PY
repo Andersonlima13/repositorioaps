@@ -25,7 +25,7 @@ Foto do aluno (opcional, com pré-visualização)
 ✅ "Aluno cadastrado com sucesso! Nº de matrícula: 2024005678"
 
 Fluxo Principal - Edição de Cadastro
-# Carla pesquisa o aluno pelo CPF na barra de busca.
+# Carla pesquisa o aluno pelo nome ou cpf na barra de busca.
 
 # O sistema mostra o registro completo com botão "Editar".
 
@@ -47,7 +47,7 @@ Fluxo Alternativo 2 - CPF Já Cadastrado
 # Carla seleciona "Sim" e é redirecionada para o perfil do aluno.
 
 Fluxo Alternativo 3 - Exclusão de Registro
-# Carla localiza o aluno e clica em "Excluir".
+# Carla localiza o aluno e clica em "Desativar".
 
 # O sistema solicita confirmação:
 🗑️ *"Tem certeza que deseja excluir permanentemente o aluno Maria Oliveira (CPF: 123.456.789-00)?"*
