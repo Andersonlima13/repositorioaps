@@ -8,7 +8,7 @@
 
 # Eduardo marca:
 
-Periodo : "a cada 6 meses"
+Periodo : "01/01/2025" | "08/01/2025"
 
 Tipo: "Solicitação de documentos"
 
