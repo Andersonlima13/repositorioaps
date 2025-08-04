@@ -48,7 +48,7 @@ Fluxo Alternativo 3 - Exclusão de Registro
 # Carla localiza o agente e clica em "Excluir".
 
 # O sistema solicita confirmação:
-🗑️ *"Tem certeza que deseja excluir permanentemente o agente Luiza Oliveira (CPF: 123.456.789-00)?"*
+🗑️ *"Tem certeza que deseja desativar o agente Luiza Oliveira (CPF: 123.456.789-00)?"*
 
 # Após confirmar, o sistema remove o registro e exibe:
 ✔️ "Registro excluído. Esta ação não pode ser desfeita."
