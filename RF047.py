@@ -1,6 +1,6 @@
 História do Usuário - Visualizar Status do Cadastro (RF047)
 
-# A estudante Ana Clara acabou de enviar seu cadastro no UniPass pelo aplicativo.
+# A estudante Ana Clara acabou de enviar seu requerimento de benificio do UniPass pelo aplicativo.
 
 # Ela acessa o sistema e faz login com seu CPF e senha.
 
